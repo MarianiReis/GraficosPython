@@ -1,4 +1,3 @@
 Gráficos em Python 
-Este é um pequeno projeto em Python
-Onde usei a biblioteca MatplotLib para criar alguns gráficos
+Este é um pequeno projeto em Python, onde usei a biblioteca MatplotLib na criação de gráficos
 
