@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+#primeiro gráfico
 x = [2,3,4,5,6,7,8,9]
 y = [9,2,8,3,7,4,6,5]
 
@@ -13,6 +14,7 @@ plt.grid()
 
 plt.show()
 
+#segundo gráfico
 x = [2,3,4,5,6,7,8,9]
 y = [9,2,8,3,7,4,6,5]
 
@@ -26,6 +28,7 @@ plt.grid()
 
 plt.show()
 
+#terceiro gráfico
 x = [1,2,3,4,5,6,7,8,9]
 y1 = [1,3,5,3,1,3,5,3,1]
 y2 = [2,4,6,4,2,4,6,4,2]
@@ -40,6 +43,7 @@ plt.title("Produção e demanda ao longo do tempo")
 plt.legend()
 plt.show()
 
+#quarto gráfico
 x = [2,3,4,5,6,7,8,9]
 y = [9,2,8,3,7,4,6,5]
 
@@ -49,6 +53,7 @@ plt.title("Evolução das vendas")
 
 plt.show()
 
+#quinto gráfico
 x1 = [1,3,4,5,6,7,9]
 y1 = [4,7,2,4,7,8,3]
 
