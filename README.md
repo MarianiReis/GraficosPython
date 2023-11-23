@@ -1,2 +1,4 @@
-# GraficosPython
-O primeiro projeto do curso Intensivo de Python, onde utilizei de alguns recursos da biblioteca Matplotlib na criação de alguns gráficos.
+Gráficos em Python 
+Este é um pequeno projeto em Python
+Onde usei a biblioteca MatplotLib para criar alguns gráficos
+
